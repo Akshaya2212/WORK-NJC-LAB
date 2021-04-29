@@ -1,0 +1,7 @@
+﻿CREATE DATABASE CUSTOMER;
+SELECT * FROM details d;
+INSERT INTO details (CustomerID, LastName,FirstName,Address,City)VALUES (1813721, "Prabhakaran","Akshaya","Aynavaram","Chennai");
+SELECT * FROM details d;
+SELECT * FROM details d;
+SELECT * FROM details d;
+SELECT * FROM details d;
